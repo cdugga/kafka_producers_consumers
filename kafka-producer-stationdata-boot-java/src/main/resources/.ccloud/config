@@ -1,0 +1,7 @@
+ssl.endpoint.identification.algorithm=https
+sasl.mechanism=PLAIN
+request.timeout.ms=20000
+bootstrap.servers=pkc-4nym6.us-east-1.aws.confluent.cloud:9092
+retry.backoff.ms=500
+sasl.jaas.config=org.apache.kafka.common.security.plain.PlainLoginModule required username="QKDLPQOAWUNNGSY3" password="sgZalzt+KkAV1f1tpnvzDtKjtGikJtTkifuL+pn7p7WlK6A8z5v6t+2xJCHkLG0i";
+security.protocol=SASL_SSL

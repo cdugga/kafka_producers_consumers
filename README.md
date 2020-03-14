@@ -1,7 +1,7 @@
 
 # kafka Producer and Streaming Applications
 
-Bridgemate.ie is a non-profit website for sharing Bridge results, news and events for the west of Ireland region. The repo is comprised of a number of projects which contribute to the websites smooth running.
+Kafka Producers, consumers and streaming applications written in a variety of languages and using various frameworks.
 
 ## Components
 
